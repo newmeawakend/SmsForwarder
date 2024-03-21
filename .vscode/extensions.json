@@ -2,6 +2,7 @@
     "recommendations": [
         "devsense.composer-php-vscode",
         "dart-code.dart-code",
-        "visualstudioexptteam.vscodeintellicode"
+        "visualstudioexptteam.vscodeintellicode",
+        "danielsanmedium.dscodegpt"
     ]
 }
